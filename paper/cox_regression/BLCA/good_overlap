@@ -1,0 +1,292 @@
+
+Overlap Results
+
+Collection(s):	BP, C1, C6, CGP, CM, CP, CP:KEGG, MIR, TFT
+# overlaps shown:	27
+# genesets in collections:	7332
+# genes in comparison (n):	250
+# genes in universe (N):	45956
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	335	Genes down-regulated in non-metastatic breast cancer tumors having type 1 amplification in the 20q13 region; involves ZNF217 [GeneID=7764] locus only.	20	0.0597	3.83E-15	2.81E-11
+GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN	180	Genes down-regulated in metastatic breast cancer tumors having  type 2 amplification in the 20q13 region; involves MYBL2, STK6 and ZNF217 [GeneID=4605;6790;7764]	14	0.0778	1.58E-12	5.81E-9
+MYC_UP.V1_DN	182	Genes down-regulated in primary epithelial breast cancer cell culture over-expressing MYC [Gene ID=4609] gene.	12	0.0659	4.34E-10	1.06E-6
+ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY	1839	Genes transiently induced only by the first pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	32	0.0174	7.91E-9	1.45E-5
+HADDAD_B_LYMPHOCYTE_PROGENITOR	293	Genes up-regulated in hematopoietic progenitor cells (HPC) of B lymphocyte lineage CD34+CD45RA+CD10+ [GeneID=947;5788;4311].	12	0.0410	8.92E-8	1.09E-4
+ZWANG_DOWN_BY_2ND_EGF_PULSE	293	Genes down-regulated by second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	12	0.0410	8.92E-8	1.09E-4
+CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP	450	Genes up-regulated in luminal-like breast cancer cell lines compared to the mesenchymal-like ones.	14	0.0311	2.21E-7	2.32E-4
+chr19q13	948	Genes in cytogenetic band chr19q13	20	0.0211	3.19E-7	2.92E-4
+BLALOCK_ALZHEIMERS_DISEASE_UP	1691	Genes up-regulated in brain from patients with Alzheimer's disease.	27	0.0160	6.82E-7	5.56E-4
+WHITFIELD_CELL_CYCLE_G1_S	147	Genes periodically expressed in synchronized HeLa cells (cervical carcinoma), with peak during the G1/S phase of cell cycle.	8	0.0544	1.59E-6	1.17E-3
+CHEN_HOXA5_TARGETS_9HR_UP	223	Genes up-regulated 9 h after induction of HoxA5 [GeneID=3205] expression in a breast cancer cell line.	9	0.0404	4.2E-6	2.68E-3
+MODULE_180	120	Genes in the cancer module 180	7	0.0583	4.57E-6	2.68E-3
+LIM_MAMMARY_STEM_CELL_DN	428	Genes consistently down-regulated in mammary stem cells both in mouse and human species.	12	0.0280	4.75E-6	2.68E-3
+GGGCGGR_V$SP1_Q6	2940	Genes with promoter regions [-2kb,2kb] around transcription start site containing the motif GGGCGGR which matches annotation for SP1: Sp1 transcription factor	35	0.0119	1.15E-5	5.77E-3
+NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN	634	Down-regulated genes in peripheral zone of human pancreatic cancer growing in the pancreas of nude mice compared to that of the tumor from the central zone.	14	0.0221	1.18E-5	5.77E-3
+OSMAN_BLADDER_CANCER_DN	406	Genes down-regulated in blood samples from bladder cancer patients.	11	0.0271	1.63E-5	7.45E-3
+BIOPOLYMER_METABOLIC_PROCESS	1684	Genes annotated by the GO term GO:0043283. The chemical reactions and pathways involving biopolymers, long, repeating chains of monomers found in nature e.g. polysaccharides and proteins.	24	0.0143	1.92E-5	8.3E-3
+PEREZ_TP53_TARGETS	1174	Genes up-regulated in the HMEC cells (primary mammary epithelium) upon expression of TP53 [GeneID=7157] off adenoviral vector.	19	0.0162	2.74E-5	1.12E-2
+CAGGTG_V$E12_Q6	2485	Genes with promoter regions [-2kb,2kb] around transcription start site containing the motif CAGGTG which matches annotation for TCF3: transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	30	0.0121	3.98E-5	1.54E-2
+DOANE_BREAST_CANCER_CLASSES_UP	72	Genes up-regulated in ER(-) / PR(-) breast tumors (do not express ESR1 and PGR [GeneID=2099;5241]) with molecular similarity to ER(+) (class A) relative to the rest of the ER(-) / PR(-) samples (class B).	5	0.0694	4.76E-5	1.71E-2
+SENGUPTA_EBNA1_ANTICORRELATED	173	Genes whose reduced expression in nasopharyngeal carinoma (NPC) correlated most with the increased expression of EBNA1 [GeneID=3783774], a latent gene of Epstein-Barr virus (EBV).	7	0.0405	4.9E-5	1.71E-2
+TGACCTY_V$ERR1_Q2	1043	Genes with promoter regions [-2kb,2kb] around transcription start site containing the motif TGACCTY which matches annotation for ESRRA: estrogen-related receptor alpha	17	0.0163	6.69E-5	2.23E-2
+E2F3_UP.V1_DN	183	Genes down-regulated in primary epithelial breast cancer cell culture over-expressing E2F3 [Gene ID=1871] gene.	7	0.0383	6.99E-5	2.23E-2
+WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP	265	Genes up-regulated in mucinous ovarian carcinoma tumors of low malignant potential (LMP) compared to normal ovarian surface epithelium tissue.	8	0.0302	1.12E-4	3.32E-2
+chr1p36	504	Genes in cytogenetic band chr1p36	11	0.0218	1.13E-4	3.32E-2
+chr7q11	208	Genes in cytogenetic band chr7q11	7	0.0337	1.55E-4	4.37E-2
+MARSON_BOUND_BY_FOXP3_STIMULATED	1022	Genes with promoters bound by FOXP3 [GeneID=50943] in hybridoma cells stimulated by PMA [PubChem=4792] and ionomycin [PubChem=3733].	16	0.0157	1.73E-4	4.69E-2
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN	MYC_UP.V1_DN	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY	HADDAD_B_LYMPHOCYTE_PROGENITOR	ZWANG_DOWN_BY_2ND_EGF_PULSE	CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP	chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP	WHITFIELD_CELL_CYCLE_G1_S	CHEN_HOXA5_TARGETS_9HR_UP	MODULE_180	LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6	NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN	OSMAN_BLADDER_CANCER_DN	BIOPOLYMER_METABOLIC_PROCESS	PEREZ_TP53_TARGETS	CAGGTG_V$E12_Q6	DOANE_BREAST_CANCER_CLASSES_UP	SENGUPTA_EBNA1_ANTICORRELATED	TGACCTY_V$ERR1_Q2	E2F3_UP.V1_DN	WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP	chr1p36	chr7q11	MARSON_BOUND_BY_FOXP3_STIMULATED
+11129	CLASRP	CLK4-associating serine/arginine rich protein	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN						chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP										CAGGTG_V$E12_Q6								
+114823	LENG8	leukocyte receptor cluster (LRC) member 8	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN						chr19q13		WHITFIELD_CELL_CYCLE_G1_S																	
+64772	ENGASE	endo-beta-N-acetylglucosaminidase	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN							BLALOCK_ALZHEIMERS_DISEASE_UP							OSMAN_BLADDER_CANCER_DN			CAGGTG_V$E12_Q6								
+155400	NSUN5P1	NOP2/Sun domain family, member 5 pseudogene 1	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN							BLALOCK_ALZHEIMERS_DISEASE_UP												SENGUPTA_EBNA1_ANTICORRELATED					chr7q11	
+22889	KIAA0907	KIAA0907	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN									CHEN_HOXA5_TARGETS_9HR_UP																MARSON_BOUND_BY_FOXP3_STIMULATED
+148898	C1orf213	chromosome 1 open reading frame 213	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN												GGGCGGR_V$SP1_Q6											chr1p36		
+7919	DDX39B	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN																									
+129450	TYW5	tRNA-yW synthesizing protein 5	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN	GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN																									
+147807	ZNF524	zinc finger protein 524	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN							chr19q13					LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6													
+29998	GLTSCR1	glioma tumor suppressor candidate region gene 1	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN							chr19q13																			
+26088	GGA1	golgi-associated, gamma adaptin ear containing, ARF binding protein 1	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN								BLALOCK_ALZHEIMERS_DISEASE_UP					GGGCGGR_V$SP1_Q6													
+83933	HDAC10	histone deacetylase 10	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN												LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6			BIOPOLYMER_METABOLIC_PROCESS										
+284702	HNRNPU-AS1	HNRNPU antisense RNA 1 (non-protein coding)	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN														NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+9013	TAF1C	TATA box binding protein (TBP)-associated factor, RNA polymerase I, C, 110kDa	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																BIOPOLYMER_METABOLIC_PROCESS										
+79969	ATAT1	alpha tubulin acetyltransferase 1	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																					TGACCTY_V$ERR1_Q2					
+374666	WASH3P	WAS protein family homolog 3 pseudogene	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																						E2F3_UP.V1_DN				
+1427	CRYGS	crystallin, gamma S	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																										MARSON_BOUND_BY_FOXP3_STIMULATED
+1018	CDK3	cyclin-dependent kinase 3	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																										
+9170	LPAR2	lysophosphatidic acid receptor 2	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																										
+55657	ZNF692	zinc finger protein 692	GINESTIER_BREAST_CANCER_ZNF217_AMPLIFIED_DN																										
+7127	TNFAIP2	tumor necrosis factor, alpha-induced protein 2		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN	MYC_UP.V1_DN	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY									LIM_MAMMARY_STEM_CELL_DN		NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN	OSMAN_BLADDER_CANCER_DN											
+8481	OFD1	oral-facial-digital syndrome 1		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN		ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY					BLALOCK_ALZHEIMERS_DISEASE_UP							OSMAN_BLADDER_CANCER_DN											
+7696	ZNF137P	zinc finger protein 137, pseudogene		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN						chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP																		
+260294	NSUN5P2	NOP2/Sun domain family, member 5 pseudogene 2		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN							BLALOCK_ALZHEIMERS_DISEASE_UP	WHITFIELD_CELL_CYCLE_G1_S											SENGUPTA_EBNA1_ANTICORRELATED					chr7q11	
+57018	CCNL1	cyclin L1		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN									CHEN_HOXA5_TARGETS_9HR_UP																
+80161	ASMTL-AS1	ASMTL antisense RNA 1 (non-protein coding)		GINESTIER_BREAST_CANCER_20Q13_AMPLIFICATION_DN																									
+147699	PPM1N	protein phosphatase, Mg2+/Mn2+ dependent, 1N (putative)			MYC_UP.V1_DN	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY				chr19q13						GGGCGGR_V$SP1_Q6													
+94241	TP53INP1	tumor protein p53 inducible nuclear protein 1			MYC_UP.V1_DN			ZWANG_DOWN_BY_2ND_EGF_PULSE												PEREZ_TP53_TARGETS									
+80776	B9D2	B9 protein domain 2			MYC_UP.V1_DN					chr19q13						GGGCGGR_V$SP1_Q6									E2F3_UP.V1_DN				
+53916	RAB4B	RAB4B, member RAS oncogene family			MYC_UP.V1_DN					chr19q13						GGGCGGR_V$SP1_Q6													
+25897	RNF19A	ring finger protein 19A			MYC_UP.V1_DN						BLALOCK_ALZHEIMERS_DISEASE_UP										CAGGTG_V$E12_Q6								
+80714	PBX4	pre-B-cell leukemia homeobox 4			MYC_UP.V1_DN														BIOPOLYMER_METABOLIC_PROCESS					TGACCTY_V$ERR1_Q2					
+177	AGER	advanced glycosylation end product-specific receptor			MYC_UP.V1_DN														BIOPOLYMER_METABOLIC_PROCESS										
+54094	C21orf15	chromosome 21 open reading frame 15			MYC_UP.V1_DN															PEREZ_TP53_TARGETS					E2F3_UP.V1_DN				
+284618	RUSC1-AS1	RUSC1 antisense RNA 1 (non-protein coding)			MYC_UP.V1_DN																CAGGTG_V$E12_Q6				E2F3_UP.V1_DN				
+54991	C1orf159	chromosome 1 open reading frame 159			MYC_UP.V1_DN																						chr1p36		
+90853	SPOCD1	SPOC domain containing 1			MYC_UP.V1_DN																								
+54103	PION	pigeon homolog (Drosophila)				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY	HADDAD_B_LYMPHOCYTE_PROGENITOR																					chr7q11	MARSON_BOUND_BY_FOXP3_STIMULATED
+9266	CYTH2	cytohesin 2				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY		ZWANG_DOWN_BY_2ND_EGF_PULSE		chr19q13						GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6			TGACCTY_V$ERR1_Q2					
+79961	DENND2D	DENN/MADD domain containing 2D				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY			CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP						LIM_MAMMARY_STEM_CELL_DN									TGACCTY_V$ERR1_Q2					
+5364	PLXNB1	plexin B1				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY			CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP																				
+55769	ZNF83	zinc finger protein 83				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY				chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP									PEREZ_TP53_TARGETS									
+162966	ZNF600	zinc finger protein 600				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY				chr19q13										PEREZ_TP53_TARGETS									
+23780	APOL2	apolipoprotein L, 2				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY					BLALOCK_ALZHEIMERS_DISEASE_UP									PEREZ_TP53_TARGETS									
+1506	CTRL	chymotrypsin-like				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY					BLALOCK_ALZHEIMERS_DISEASE_UP										CAGGTG_V$E12_Q6								
+26140	TTLL3	tubulin tyrosine ligase-like family, member 3				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY					BLALOCK_ALZHEIMERS_DISEASE_UP												SENGUPTA_EBNA1_ANTICORRELATED						
+2634	GBP2	guanylate binding protein 2, interferon-inducible				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY					BLALOCK_ALZHEIMERS_DISEASE_UP																		
+5423	POLB	polymerase (DNA directed), beta				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY									LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6			BIOPOLYMER_METABOLIC_PROCESS										
+57654	KIAA1530	KIAA1530				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY											NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN						SENGUPTA_EBNA1_ANTICORRELATED						
+253018	HCG27	HLA complex group 27 (non-protein coding)				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY												OSMAN_BLADDER_CANCER_DN											
+81704	DOCK8	dedicator of cytokinesis 8				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY														PEREZ_TP53_TARGETS									
+124923	SGK494	uncharacterized serine/threonine-protein kinase SgK494				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY															CAGGTG_V$E12_Q6								
+166793	ZBTB49	zinc finger and BTB domain containing 49				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																			E2F3_UP.V1_DN				
+5016	OVGP1	oviductal glycoprotein 1, 120kDa				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+440944	LOC440944	uncharacterized LOC440944				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+93953	ACRC	acidic repeat containing				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+414059	TBC1D3B	TBC1 domain family, member 3B				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+10336	PCGF3	polycomb group ring finger 3				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+245711	SPDYA	speedy homolog A (Xenopus laevis)				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+80307	FER1L4	fer-1-like 4 (C. elegans) pseudogene				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+55552	ZNF823	zinc finger protein 823				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+80832	APOL4	apolipoprotein L, 4				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+7746	ZNF193	zinc finger protein 193				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+729873	TBC1D3	TBC1 domain family, member 3				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+729877	TBC1D3H	TBC1 domain family, member 3H				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+285550	FAM200B	family with sequence similarity 200, member B				ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY																							
+91316	GUSBP11	glucuronidase, beta pseudogene 11					HADDAD_B_LYMPHOCYTE_PROGENITOR	ZWANG_DOWN_BY_2ND_EGF_PULSE																					
+79037	PVRIG	poliovirus receptor related immunoglobulin domain containing					HADDAD_B_LYMPHOCYTE_PROGENITOR	ZWANG_DOWN_BY_2ND_EGF_PULSE																					
+10475	TRIM38	tripartite motif containing 38					HADDAD_B_LYMPHOCYTE_PROGENITOR				BLALOCK_ALZHEIMERS_DISEASE_UP							OSMAN_BLADDER_CANCER_DN											
+79161	C7orf23	chromosome 7 open reading frame 23					HADDAD_B_LYMPHOCYTE_PROGENITOR					WHITFIELD_CELL_CYCLE_G1_S				GGGCGGR_V$SP1_Q6		OSMAN_BLADDER_CANCER_DN		PEREZ_TP53_TARGETS	CAGGTG_V$E12_Q6								
+55608	ANKRD10	ankyrin repeat domain 10					HADDAD_B_LYMPHOCYTE_PROGENITOR					WHITFIELD_CELL_CYCLE_G1_S																	
+81688	C6orf62	chromosome 6 open reading frame 62					HADDAD_B_LYMPHOCYTE_PROGENITOR						CHEN_HOXA5_TARGETS_9HR_UP			GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+80345	ZSCAN16	zinc finger and SCAN domain containing 16					HADDAD_B_LYMPHOCYTE_PROGENITOR						CHEN_HOXA5_TARGETS_9HR_UP					OSMAN_BLADDER_CANCER_DN											
+10633	RASL10A	RAS-like, family 10, member A					HADDAD_B_LYMPHOCYTE_PROGENITOR							MODULE_180		GGGCGGR_V$SP1_Q6						DOANE_BREAST_CANCER_CLASSES_UP							
+7072	TIA1	TIA1 cytotoxic granule-associated RNA binding protein					HADDAD_B_LYMPHOCYTE_PROGENITOR								LIM_MAMMARY_STEM_CELL_DN		NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+54540	FAM193B	family with sequence similarity 193, member B					HADDAD_B_LYMPHOCYTE_PROGENITOR														CAGGTG_V$E12_Q6			TGACCTY_V$ERR1_Q2					
+55876	GSDMB	gasdermin B					HADDAD_B_LYMPHOCYTE_PROGENITOR																						
+51380	CSAD	cysteine sulfinic acid decarboxylase						ZWANG_DOWN_BY_2ND_EGF_PULSE	CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP							GGGCGGR_V$SP1_Q6													
+57035	C1orf63	chromosome 1 open reading frame 63						ZWANG_DOWN_BY_2ND_EGF_PULSE				WHITFIELD_CELL_CYCLE_G1_S															chr1p36		MARSON_BOUND_BY_FOXP3_STIMULATED
+51455	REV1	REV1 homolog (S. cerevisiae)						ZWANG_DOWN_BY_2ND_EGF_PULSE								GGGCGGR_V$SP1_Q6	NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN		BIOPOLYMER_METABOLIC_PROCESS										
+117155	CATSPER2	cation channel, sperm associated 2						ZWANG_DOWN_BY_2ND_EGF_PULSE								GGGCGGR_V$SP1_Q6								TGACCTY_V$ERR1_Q2					MARSON_BOUND_BY_FOXP3_STIMULATED
+84163	GTF2IRD2	GTF2I repeat domain containing 2						ZWANG_DOWN_BY_2ND_EGF_PULSE																				chr7q11	
+442578	STAG3L3	stromal antigen 3-like 3						ZWANG_DOWN_BY_2ND_EGF_PULSE																				chr7q11	
+414189	AGAP6	ArfGAP with GTPase domain, ankyrin repeat and PH domain 6						ZWANG_DOWN_BY_2ND_EGF_PULSE																					
+653268	AGAP7	ArfGAP with GTPase domain, ankyrin repeat and PH domain 7						ZWANG_DOWN_BY_2ND_EGF_PULSE																					
+25865	PRKD2	protein kinase D2							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP	chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP					GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+8495	PPFIBP2	PTPRF interacting protein, binding protein 2 (liprin beta 2)							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP		BLALOCK_ALZHEIMERS_DISEASE_UP				LIM_MAMMARY_STEM_CELL_DN														
+79152	FA2H	fatty acid 2-hydroxylase							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP		BLALOCK_ALZHEIMERS_DISEASE_UP						NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN			PEREZ_TP53_TARGETS	CAGGTG_V$E12_Q6	DOANE_BREAST_CANCER_CLASSES_UP				WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+3169	FOXA1	forkhead box A1							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP					MODULE_180	LIM_MAMMARY_STEM_CELL_DN						CAGGTG_V$E12_Q6	DOANE_BREAST_CANCER_CLASSES_UP		TGACCTY_V$ERR1_Q2					
+2203	FBP1	fructose-1,6-bisphosphatase 1							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP					MODULE_180		GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+6286	S100P	S100 calcium binding protein P							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP					MODULE_180			NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN								E2F3_UP.V1_DN				
+5777	PTPN6	protein tyrosine phosphatase, non-receptor type 6							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP						LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6			BIOPOLYMER_METABOLIC_PROCESS										
+84331	FAM195A	family with sequence similarity 195, member A							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP																	WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+114932	MRFAP1L1	Morf4 family associated protein 1-like 1							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP																				
+146439	CCDC64B	coiled-coil domain containing 64B							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP																				
+127845	GOLT1A	golgi transport 1A							CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP																				
+7593	MZF1	myeloid zinc finger 1								chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP	WHITFIELD_CELL_CYCLE_G1_S					NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN		BIOPOLYMER_METABOLIC_PROCESS										
+3661	IRF3	interferon regulatory factor 3								chr19q13	BLALOCK_ALZHEIMERS_DISEASE_UP								BIOPOLYMER_METABOLIC_PROCESS										
+84807	NFKBID	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, delta								chr19q13						GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								MARSON_BOUND_BY_FOXP3_STIMULATED
+162989	DEDD2	death effector domain containing 2								chr19q13								OSMAN_BLADDER_CANCER_DN		PEREZ_TP53_TARGETS									
+9476	NAPSA	napsin A aspartic peptidase								chr19q13													SENGUPTA_EBNA1_ANTICORRELATED						
+163255	ZNF540	zinc finger protein 540								chr19q13																			
+388552	BLOC1S3	biogenesis of lysosomal organelles complex-1, subunit 3								chr19q13																			
+338321	NLRP9	NLR family, pyrin domain containing 9								chr19q13																			
+7748	ZNF195	zinc finger protein 195									BLALOCK_ALZHEIMERS_DISEASE_UP		CHEN_HOXA5_TARGETS_9HR_UP							PEREZ_TP53_TARGETS									
+90864	SPSB3	splA/ryanodine receptor domain and SOCS box containing 3									BLALOCK_ALZHEIMERS_DISEASE_UP					GGGCGGR_V$SP1_Q6													
+9534	ZNF254	zinc finger protein 254									BLALOCK_ALZHEIMERS_DISEASE_UP								BIOPOLYMER_METABOLIC_PROCESS										
+5256	PHKA2	phosphorylase kinase, alpha 2 (liver)									BLALOCK_ALZHEIMERS_DISEASE_UP								BIOPOLYMER_METABOLIC_PROCESS										
+3772	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15									BLALOCK_ALZHEIMERS_DISEASE_UP									PEREZ_TP53_TARGETS									
+8233	ZRSR2	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 2									BLALOCK_ALZHEIMERS_DISEASE_UP																		
+8558	CDK10	cyclin-dependent kinase 10									BLALOCK_ALZHEIMERS_DISEASE_UP																		
+654434	LINC00338	long intergenic non-protein coding RNA 338									BLALOCK_ALZHEIMERS_DISEASE_UP																		
+5378	PMS1	PMS1 postmeiotic segregation increased 1 (S. cerevisiae)										WHITFIELD_CELL_CYCLE_G1_S							BIOPOLYMER_METABOLIC_PROCESS										MARSON_BOUND_BY_FOXP3_STIMULATED
+283596	SNHG10	small nucleolar RNA host gene 10 (non-protein coding)										WHITFIELD_CELL_CYCLE_G1_S																	
+51710	ZNF44	zinc finger protein 44											CHEN_HOXA5_TARGETS_9HR_UP				NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+84809	CROCCP2	ciliary rootlet coiled-coil, rootletin pseudogene 2											CHEN_HOXA5_TARGETS_9HR_UP							PEREZ_TP53_TARGETS							chr1p36		
+55629	PNRC2	proline-rich nuclear receptor coactivator 2											CHEN_HOXA5_TARGETS_9HR_UP														chr1p36		MARSON_BOUND_BY_FOXP3_STIMULATED
+221078	NSUN6	NOP2/Sun domain family, member 6											CHEN_HOXA5_TARGETS_9HR_UP																MARSON_BOUND_BY_FOXP3_STIMULATED
+7103	TSPAN8	tetraspanin 8												MODULE_180					BIOPOLYMER_METABOLIC_PROCESS		CAGGTG_V$E12_Q6					WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+10062	NR1H3	nuclear receptor subfamily 1, group H, member 3												MODULE_180							CAGGTG_V$E12_Q6								MARSON_BOUND_BY_FOXP3_STIMULATED
+6359	CCL15	chemokine (C-C motif) ligand 15												MODULE_180															
+92359	CRB3	crumbs homolog 3 (Drosophila)													LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6					WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+6813	STXBP2	syntaxin binding protein 2													LIM_MAMMARY_STEM_CELL_DN	GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+55620	STAP2	signal transducing adaptor family member 2													LIM_MAMMARY_STEM_CELL_DN														
+8473	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)														GGGCGGR_V$SP1_Q6		OSMAN_BLADDER_CANCER_DN	BIOPOLYMER_METABOLIC_PROCESS										MARSON_BOUND_BY_FOXP3_STIMULATED
+5460	POU5F1	POU class 5 homeobox 1														GGGCGGR_V$SP1_Q6			BIOPOLYMER_METABOLIC_PROCESS					TGACCTY_V$ERR1_Q2					
+7391	USF1	upstream transcription factor 1														GGGCGGR_V$SP1_Q6			BIOPOLYMER_METABOLIC_PROCESS										MARSON_BOUND_BY_FOXP3_STIMULATED
+10256	CNKSR1	connector enhancer of kinase suppressor of Ras 1														GGGCGGR_V$SP1_Q6				PEREZ_TP53_TARGETS									
+338799	LOC338799	uncharacterized LOC338799														GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6			TGACCTY_V$ERR1_Q2					
+421	ARVCF	armadillo repeat gene deleted in velocardiofacial syndrome														GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+844	CASQ1	calsequestrin 1 (fast-twitch, skeletal muscle)														GGGCGGR_V$SP1_Q6					CAGGTG_V$E12_Q6								
+89848	FCHSD1	FCH and double SH3 domains 1														GGGCGGR_V$SP1_Q6							SENGUPTA_EBNA1_ANTICORRELATED						
+83547	RILP	Rab interacting lysosomal protein														GGGCGGR_V$SP1_Q6								TGACCTY_V$ERR1_Q2					
+3766	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10														GGGCGGR_V$SP1_Q6													
+1375	CPT1B	carnitine palmitoyltransferase 1B (muscle)														GGGCGGR_V$SP1_Q6													
+130557	ZNF513	zinc finger protein 513														GGGCGGR_V$SP1_Q6													
+79031	PDCL3	phosducin-like 3														GGGCGGR_V$SP1_Q6													
+81669	CCNL2	cyclin L2															NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN				CAGGTG_V$E12_Q6						chr1p36		
+130872	AHSA2	AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast)															NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN				CAGGTG_V$E12_Q6								
+55007	FAM118A	family with sequence similarity 118, member A															NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+3551	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta															NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+29990	PILRB	paired immunoglobin-like type 2 receptor beta															NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN												
+6161	RPL32	ribosomal protein L32																OSMAN_BLADDER_CANCER_DN						TGACCTY_V$ERR1_Q2					
+64968	MRPS6	mitochondrial ribosomal protein S6																OSMAN_BLADDER_CANCER_DN											
+6928	HNF1B	HNF1 homeobox B																	BIOPOLYMER_METABOLIC_PROCESS		CAGGTG_V$E12_Q6			TGACCTY_V$ERR1_Q2					
+1677	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)																	BIOPOLYMER_METABOLIC_PROCESS								chr1p36		
+5883	RAD9A	RAD9 homolog A (S. pombe)																	BIOPOLYMER_METABOLIC_PROCESS										
+29945	ANAPC4	anaphase promoting complex subunit 4																	BIOPOLYMER_METABOLIC_PROCESS										
+54344	DPM3	dolichyl-phosphate mannosyltransferase polypeptide 3																	BIOPOLYMER_METABOLIC_PROCESS										
+5801	PTPRR	protein tyrosine phosphatase, receptor type, R																	BIOPOLYMER_METABOLIC_PROCESS										
+9541	CIR1	corepressor interacting with RBPJ, 1																	BIOPOLYMER_METABOLIC_PROCESS										
+51601	LIPT1	lipoyltransferase 1																	BIOPOLYMER_METABOLIC_PROCESS										
+541473	LOC541473	FK506 binding protein 6, 36kDa pseudogene																		PEREZ_TP53_TARGETS								chr7q11	
+85378	TUBGCP6	tubulin, gamma complex associated protein 6																		PEREZ_TP53_TARGETS									
+91355	LRP5L	low density lipoprotein receptor-related protein 5-like																		PEREZ_TP53_TARGETS									
+55592	GOLGA2P5	golgin A2 pseudogene 5																		PEREZ_TP53_TARGETS									
+23117	NPIPL3	nuclear pore complex interacting protein-like 3																		PEREZ_TP53_TARGETS									
+94104	GCFC1	GC-rich sequence DNA-binding factor 1																		PEREZ_TP53_TARGETS									
+11283	CYP4F8	cytochrome P450, family 4, subfamily F, polypeptide 8																			CAGGTG_V$E12_Q6	DOANE_BREAST_CANCER_CLASSES_UP							
+150209	AIFM3	apoptosis-inducing factor, mitochondrion-associated, 3																			CAGGTG_V$E12_Q6			TGACCTY_V$ERR1_Q2					
+114881	OSBPL7	oxysterol binding protein-like 7																			CAGGTG_V$E12_Q6								
+200539	ANKRD23	ankyrin repeat domain 23																			CAGGTG_V$E12_Q6								
+130162	C2orf63	chromosome 2 open reading frame 63																			CAGGTG_V$E12_Q6								
+55268	ECHDC2	enoyl CoA hydratase domain containing 2																				DOANE_BREAST_CANCER_CLASSES_UP							
+6687	SPG7	spastic paraplegia 7 (pure and complicated autosomal recessive)																					SENGUPTA_EBNA1_ANTICORRELATED						
+9047	SH2D2A	SH2 domain containing 2A																						TGACCTY_V$ERR1_Q2	E2F3_UP.V1_DN				
+6247	RS1	retinoschisin 1																						TGACCTY_V$ERR1_Q2					
+757	TMEM50B	transmembrane protein 50B																						TGACCTY_V$ERR1_Q2					
+8292	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase																						TGACCTY_V$ERR1_Q2					
+79180	EFHD2	EF-hand domain family, member D2																								WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP	chr1p36		
+1510	CTSE	cathepsin E																								WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+55191	NADSYN1	NAD synthetase 1																								WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+222643	UNC5CL	unc-5 homolog C (C. elegans)-like																								WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP			
+8764	TNFRSF14	tumor necrosis factor receptor superfamily, member 14																									chr1p36		
+115110	LOC115110	uncharacterized LOC115110																									chr1p36		
+653635	WASH7P	WAS protein family homolog 7 pseudogene																									chr1p36		
+643253	CCT6P1	chaperonin containing TCP1, subunit 6 (zeta) pseudogene 1																										chr7q11	
+94101	ORMDL1	ORM1-like 1 (S. cerevisiae)																											MARSON_BOUND_BY_FOXP3_STIMULATED
+124817	CNTD1	cyclin N-terminal domain containing 1																											MARSON_BOUND_BY_FOXP3_STIMULATED
+3581	IL9R	interleukin 9 receptor																											MARSON_BOUND_BY_FOXP3_STIMULATED
+6991	TCTE3	t-complex-associated-testis-expressed 3																											MARSON_BOUND_BY_FOXP3_STIMULATED
+51291	GMIP	GEM interacting protein																											
+55779	WDR52	WD repeat domain 52																											
+54093	SETD4	SET domain containing 4																											
+8542	APOL1	apolipoprotein L, 1																											
+6690	SPINK1	serine peptidase inhibitor, Kazal type 1																											
+11132	CAPN10	calpain 10																											
+1564	CYP2D7P1	cytochrome P450, family 2, subfamily D, polypeptide 7 pseudogene 1																											
+386593	CHKB-CPT1B	CHKB-CPT1B readthrough (non-protein coding)																											
+148213	ZNF681	zinc finger protein 681																											
+10748	KLRAP1	killer cell lectin-like receptor subfamily A pseudogene 1																											
+7152	TOP1P2	topoisomerase (DNA) I pseudogene 2																											
+10225	CD96	CD96 molecule																											
+51244	C3orf19	chromosome 3 open reading frame 19																											
+503542	SPRN	shadow of prion protein homolog (zebrafish)																											
+1345	COX6C	cytochrome c oxidase subunit VIc																											
+84433	CARD11	caspase recruitment domain family, member 11																											
+119016	AGAP4	ArfGAP with GTPase domain, ankyrin repeat and PH domain 4																											
+440503	PLIN5	perilipin 5																											
+85028	SNHG12	small nucleolar RNA host gene 12 (non-protein coding)																											
+84941	HSH2D	hematopoietic SH2 domain containing																											
+152992	METTL19	methyltransferase like 19																											
+730112	FAM166B	family with sequence similarity 166, member B																											
+149483	CCDC17	coiled-coil domain containing 17																											
+10737	RFPL3-AS1	RFPL3 antisense RNA 1 (non-protein coding)																											
+284900	TTC28-AS1	TTC28 antisense RNA 1 (non-protein coding)																											
+8858	PROZ	protein Z, vitamin K-dependent plasma glycoprotein																											
+84513	PPAPDC1B	phosphatidic acid phosphatase type 2 domain containing 1B																											
+55692	LUC7L	LUC7-like (S. cerevisiae)																											
+254887	ZDHHC23	zinc finger, DHHC-type containing 23																											
+90806	ANGEL2	angel homolog 2 (Drosophila)																											
+480	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide																											
+3640	INSL3	insulin-like 3 (Leydig cell)																											
+58527	C6orf115	chromosome 6 open reading frame 115																											
+84173	ELMOD3	ELMO/CED-12 domain containing 3																											
+283970	PDXDC2P	pyridoxal-dependent decarboxylase domain containing 2, pseudogene																											
+79370	BCL2L14	BCL2-like 14 (apoptosis facilitator)																											
+7569	ZNF182	zinc finger protein 182																											
+158381	ATP8B5P	ATPase, class I, type 8B, member 5, pseudogene																											
+493753	COA5	cytochrome C oxidase assembly factor 5																											
+221908	PPP1R35	protein phosphatase 1, regulatory subunit 35																											
+5555	PRH2	proline-rich protein HaeIII subfamily 2																											
+8940	TOP3B	topoisomerase (DNA) III beta																											
+84630	TTBK1	tau tubulin kinase 1																											
+222161	DKFZP586I1420	uncharacterized protein DKFZp586I1420																											
+219402	MTIF3	mitochondrial translational initiation factor 3																											
+5462	POU5F1B	POU class 5 homeobox 1B																											
+56954	NIT2	nitrilase family, member 2																											
+85414	SLC45A3	solute carrier family 45, member 3																											
+284805	C20orf203	chromosome 20 open reading frame 203																											
+283870	C16orf79	chromosome 16 open reading frame 79																											
+147081	C17orf69	chromosome 17 open reading frame 69																											
+340390	KIAA1875	KIAA1875																											
+54923	LIME1	Lck interacting transmembrane adaptor 1																											
+149134	LOC149134	uncharacterized LOC149134																											
+221545	C6orf136	chromosome 6 open reading frame 136																											
+735301	SNHG9	small nucleolar RNA host gene 9 (non-protein coding)																											
+285359	LOC285359	phosducin-like 3 pseudogene																											
+285074	LOC285074	anaphase promoting complex subunit 1 pseudogene																											
+91523	FAM113B	family with sequence similarity 113, member B																											
+339210	C17orf67	chromosome 17 open reading frame 67																											
+146880	LOC146880	Rho GTPase activating protein 27 pseudogene																											
+284233	CYP4F35P	cytochrome P450, family 4, subfamily F, polypeptide 35, pseudogene																											
+728743	LOC728743	zinc finger protein pseudogene																											
+100129637	LOC100129637	uncharacterized LOC100129637																											
+100216545	LOC100216545	uncharacterized LOC100216545																											
+100272146	LOC100272146	nuclear factor (erythroid-derived 2)-like 3 pseudogene																											
+100288778	LOC100288778	WAS protein family homolog 1 pseudogene																											
+164668	APOBEC3H	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3H																											
+2679	GGT3P	gamma-glutamyltransferase 3 pseudogene																											

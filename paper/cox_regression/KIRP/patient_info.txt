@@ -1,0 +1,2 @@
+Average Age	Males	Females	Deaths	Median Survival
+60.8016194332	181	66	32	NA

@@ -1,0 +1,2 @@
+Average Age	Males	Females	Deaths	Median Survival
+60.0864197531	217	107	105	2116

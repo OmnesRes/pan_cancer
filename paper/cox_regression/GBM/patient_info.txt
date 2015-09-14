@@ -1,0 +1,2 @@
+Average Age	Males	Females	Deaths	Median Survival
+59.8421052632	98	54	119	406
